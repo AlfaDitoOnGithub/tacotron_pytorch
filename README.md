@@ -1,4 +1,9 @@
-**NOTE**: This is just a clone of [r9y9's awesome repository](https://github.com/r9y9/tacotron_pytorch). We have just added a few variations to `train.py` to accomodate our experiments. These versions each work for a different approach in our project. The usage is described [here](https://github.com/Emotional-Text-to-Speech/dl-for-emo-tts#reproducibility-and-code). Please note that the train scripts do not change the original setup instructions or training commands in any manner. They are added just to aid in reproducibility of our experiments.
+**NOTE**: This is just a clone from another clone of [r9y9's awesome repository](https://github.com/r9y9/tacotron_pytorch).
+I try to make it useable in TF2. since now, Google Collab can only support tf2.
+
+The Previous fork that i take 
+
+have just added a few variations to `train.py` to accomodate our experiments. These versions each work for a different approach in our project. The usage is described [here](https://github.com/Emotional-Text-to-Speech/dl-for-emo-tts#reproducibility-and-code). Please note that the train scripts do not change the original setup instructions or training commands in any manner. They are added just to aid in reproducibility of our experiments.
 
 
 - - -
